@@ -4,6 +4,8 @@
 
 ### [⬇ Download Ready-to-Play Game (Windows .zip)](https://github.com/Pachimari67/Playman-Extreme-Running-Remaster/releases/latest/download/Playman_Extreme_Running_Remaster_Windows.zip)
 
+![Preview](Preview.gif)
+
 ---
 
 <a name="english"></a>
@@ -52,10 +54,10 @@ Download the archive above, unpack it, and run **`Playman Extreme Running.exe`**
 
 ### Управление
 
-| Действие | Клавиатура | Геймпад |
+| Действие | Клавиатура | Gamepad |
 | :--- | :--- | :--- |
 | **Прыжок / Вверх** | `W`, `Up`, `Space` | `D-Pad Up`, левый стик вверх, `A`, `Y`, `RB` |
-| **Кувырок / Приземление / Вниз** | `S`, `Down` | `D-Pad Down`, Left Stick Down, `B`, `LB` |
+| **Кувырок / Приземление / Вниз** | `S`, `Down` | `D-Pad Down`, левый стик вниз, `B`, `LB` |
 | **Влево / Вправо** | `A` / `D`, `Left` / `Right` | `D-Pad`, левый стик |
 | **Выбор / ОК (в меню)** | `Enter`, `Space` | `A`, `X` |
 | **Пауза / Назад** | `Esc` | `Start`, `B` |
