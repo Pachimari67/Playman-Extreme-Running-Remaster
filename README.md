@@ -11,8 +11,8 @@
 <a name="english"></a>
 ## English
 
-An unofficial PC remaster of the classic mobile parkour game **Playman Extreme Running (v1.0.4, 2007)**.
-Download the archive above, unpack it, and run **`Playman Extreme Running.exe`**.
+**Playman Extreme Running (v1.0.4, 2007)** has been fully ported from Java (J2ME) to a modern engine (**Godot 4.3 C#**) for PC as an unofficial remaster.  
+It runs natively on Windows without any Java emulators — just download the archive above, unpack it, and run **`Playman Extreme Running.exe`**.
 
 ### Features
 
@@ -41,8 +41,8 @@ Download the archive above, unpack it, and run **`Playman Extreme Running.exe`**
 <a name="русский"></a>
 ## Русский
 
-Неофициальный ПК-ремастер культовой мобильной игры **Playman Extreme Running (v1.0.4, 2007)**.
-Скачайте архив по ссылке выше, распакуйте его и запустите **`Playman Extreme Running.exe`**.
+Классическая мобильная игра **Playman Extreme Running (v1.0.4, 2007)** была полностью перенесена со старого Java (J2ME) на новый современный движок (**Godot 4.3 C#**) для ПК в виде неофициального ремастера.  
+Игра работает напрямую на Windows без каких-либо эмуляторов — просто скачайте архив по ссылке выше, распакуйте его и запустите **`Playman Extreme Running.exe`**.
 
 ### Особенности
 
@@ -54,7 +54,7 @@ Download the archive above, unpack it, and run **`Playman Extreme Running.exe`**
 
 ### Управление
 
-| Действие | Клавиатура | Gamepad |
+| Действие | Клавиатура | Геймпад |
 | :--- | :--- | :--- |
 | **Прыжок / Вверх** | `W`, `Up`, `Space` | `D-Pad Up`, левый стик вверх, `A`, `Y`, `RB` |
 | **Кувырок / Приземление / Вниз** | `S`, `Down` | `D-Pad Down`, левый стик вниз, `B`, `LB` |
