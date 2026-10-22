@@ -1,0 +1,18 @@
+# Godot 4+ cache & build artifacts
+.godot/
+*.import
+
+# .NET / C# build outputs
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+
+# User save data & local settings
+SaveData/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

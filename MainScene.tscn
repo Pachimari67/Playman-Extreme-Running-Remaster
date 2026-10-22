@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://playman_main_scene"]
+
+[ext_resource type="Script" path="res://MainScene.cs" id="1_main"]
+
+[node name="MainScene" type="Node2D"]
+script = ExtResource("1_main")
